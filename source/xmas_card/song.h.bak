@@ -1,0 +1,16 @@
+/*typedef struct {
+  uint8_t  note; //DD-dead note,BB-goto begin (end of song)
+  uint16_t dly;
+}part;*/
+
+// array elements count shouldn't exceed 2048 for stm8s103f3p6
+const part song[8] = {
+36, 0xF159,
+38, 0xF159,
+40, 0xF159,
+41, 0xF159,
+43, 0xF159,
+45, 0xC567,
+47, 0xF159,
+
+0xBB,0xFFFF};

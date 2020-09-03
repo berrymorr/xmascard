@@ -1,0 +1,8 @@
+;	STMicroelectronics dependencies file
+
+[Version]
+Keyword=ST7Project
+Number=1.3
+
+[Root.Source Files.main.c.Config.0]
+ExternDep=main.c D:\soft\Raisonance\Ride\inc\stm8\STM8S103F3P.h D:\soft\Raisonance\Ride\inc\stm8\STM8S103F.h D:\!doc\electronix\!pcbs\!!!my!!!\STM8\stm8s103f3p\xmas_card\stm8s.h D:\!doc\electronix\!pcbs\!!!my!!!\STM8\stm8s103f3p\xmas_card\stm8s_conf.h D:\!doc\electronix\!pcbs\!!!my!!!\STM8\stm8s103f3p\xmas_card\stm8s.h D:\soft\Raisonance\Ride\inc\st7\intrist7.h D:\!doc\electronix\!pcbs\!!!my!!!\STM8\stm8s103f3p\xmas_card\song.h 

@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=xmas_card\xmas_card.stp
+Dependencies=
+[Options]
+ActiveProject=xmas_card
+ActiveConfig=Debug
+AddSortedElements=0
